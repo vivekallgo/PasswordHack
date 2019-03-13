@@ -276,7 +276,7 @@ In 2006, a massive password phishing scam was conducted on Myspace users. It is 
 
 </table>
 
-It seems that the younger generation of computer users are beginning to see the importance of selecting longer passwords, but what are the most common passwords you might ask? Bruce Schneier mentions "the top 20 passwords are (in order): password1, abc123, myspace1, password, blink182, qwerty1, fuckyou, 123abc, baseball1, football1, 123456, soccer, monkey1, liverpool1, princess1, jordan23, slipknot1, superman1, iloveyou1 and monkey."
+It seems that the younger generation of computer users are beginning to see the importance of selecting longer passwords, but what are the most common passwords you might ask? Bruce Schneier mentions "the top 20 passwords are (in order): password1, abc123, myspace1, password, blink182, qwerty1, f**kyou, 123abc, baseball1, football1, 123456, soccer, monkey1, liverpool1, princess1, jordan23, slipknot1, superman1, iloveyou1 and monkey."
 
 These common passwords give us an idea of what the typical user's creativity is towards forming a password. Given that these common passwords only make up less than .5% of the passwords used in the pool of stolen passwords, we cannot assume too much, but one can consider that the majority of users use passwords with the same elements as those mentioned above. The most important thing to keep in mind about passwords is that the typical user uses a password that will be easily remembered, thus one that almost always includes a real word of some sort.
 
