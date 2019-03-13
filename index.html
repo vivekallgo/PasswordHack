@@ -1,15 +1,32 @@
+<!-- Created by Jonathan Pizarra-->
+
+
+<!-- 
+Credits to Krow for the babelizer script
+
+This code is based on a video on the YouTube channel Mathologer about times table:
+
+    https://youtu.be/qhbuKbxJsk8
+
+This is also my first code with ES6 syntax.
+
+Witness the beauty of mathematics.😎
+
+Update: June 19, 2018: Changed from modulo 360 to modulo 500 for more detailed patterns
+
+Update: June 20, 2018: Removed parseInt in input prompt to accept decimal numbers
+ -->
 <!DOCTYPE html>
-
 <html>
-
-<head>
-    <title>Hello, Pals</title>
-    <link rel="stylesheet" href="/style.css">
-    <script src="/script.js"></script>
-</head>
-
-<body>
-    <h1>Hello, Pals</h1>
-</body>
-
+    <head>
+        <title>Circular Times Table Modulo 500</title>
+        <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+        <!-- Remember... Any script added that use ES6 MUST set his type attr to "text/babel" -->
+    </head>
+    <body>
+        <canvas id="canv"></canvas>
+        <pre><div id="stats">N</div></pre>
+        <button id="but">CLICK HERE</button>
+        <pre><a id="yt" href="https://youtu.be/qhbuKbxJsk8">YOUTUBE REFERENCE</a></pre>
+    </body>
 </html>
