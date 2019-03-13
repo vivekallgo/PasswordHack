@@ -124,7 +124,7 @@ In 2006, a massive password phishing scam was conducted on Myspace users. It is 
 
 <tr>
 
-<td><a>![](./Password Cracking_files/password_characters.png)</a>  
+<td><a>![](https://github.com/vivekallgo/PasswordHack/blob/master/Password%20Cracking_files/password_characters.png)</a>  
 </td>
 
 <td>
@@ -175,7 +175,7 @@ In 2006, a massive password phishing scam was conducted on Myspace users. It is 
 
 <tr>
 
-<td><a>![](./Password Cracking_files/password_length.png)</a>  
+<td><a>![](https://github.com/vivekallgo/PasswordHack/blob/master/Password%20Cracking_files/password_characters.png)</a>  
 </td>
 
 <td>
